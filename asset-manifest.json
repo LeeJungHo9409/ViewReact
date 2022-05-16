@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/static/js/main.bcc95737.js",
-    "index.html": "/index.html",
-    "main.bcc95737.js.map": "/static/js/main.bcc95737.js.map"
+    "main.js": "/LeeJungHo9409/ViewReact/static/js/main.bcc95737.js",
+    "index.html": "/LeeJungHo9409/ViewReact/index.html",
+    "main.bcc95737.js.map": "/LeeJungHo9409/ViewReact/static/js/main.bcc95737.js.map"
   },
   "entrypoints": [
     "static/js/main.bcc95737.js"
